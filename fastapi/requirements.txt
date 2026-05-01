@@ -1,0 +1,11 @@
+ langchain-community 
+ langchain-core
+ faiss-cpu
+ pypdf
+ pytesseract 
+ pillow 
+ pdf2image
+sentence-transformers
+requests
+langchain-huggingface
+python-multipart
